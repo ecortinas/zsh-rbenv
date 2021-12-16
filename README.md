@@ -10,6 +10,10 @@ If you want to upgrade to the latest rbenv: `$ rbenv update`
 
 ## Installation
 
+### Dependencies
+
+`sudo apt install build-essential libssl-dev zlib1g-dev`
+
 ### Manually
 Clone this repository into your desired location. (I have mine installed in `.zsh/plugins`) and source it in your `.zshrc`
 
