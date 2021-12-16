@@ -12,11 +12,17 @@ If you want to upgrade to the latest rbenv: `$ rbenv update`
 
 ### Dependencies
 
-`sudo apt install build-essential libssl-dev zlib1g-dev`
+```
+sudo apt install build-essential libssl-dev zlib1g-dev
+```
 
 ### Manually
 Clone this repository into your desired location. (I have mine installed in `.zsh/plugins`) and source it in your `.zshrc`
 
-`git clone https://github.com/ecortinas/zsh-rbenv.git ~/.zsh/plugins`
+```
+git clone https://github.com/ecortinas/zsh-rbenv.git ~/.zsh/plugins
+```
 
-`echo "source ~/.zsh/plugins/zsh-rbenv.plugin.zsh" >> ~/.zshrc`
+```
+echo "source ~/.zsh/plugins/zsh-rbenv.plugin.zsh" >> ~/.zshrc
+```
