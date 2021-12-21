@@ -1,7 +1,7 @@
 ## Usage
 This plugin is based on the [zsh-pyenv](https://github.com/mattberther/zsh-pyenv) plugin. This plugin will install rbenv and make it readily available. 
 
-It also comes with two additional plguins:
+It also comes with two additional plugins:
 1. [ruby-build](https://github.com/rbenv/ruby-build) which makes the ruby install command available.
 2. [rbenv-update](https://github.com/rkh/rbenv-update) which will check for and update rbenv and all its plugins.
 
